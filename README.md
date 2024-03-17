@@ -47,6 +47,6 @@
     /></a>
 </p>
 
-- <i class="bi bi-person"></i> I'm a Master's Student in Computer Science at [Brawijaya University](https://ub.ac.id/)
+- 🏛️ I'm a Master's Student in Computer Science at [Brawijaya University](https://ub.ac.id/)
 
-- 🤝 I'm a Founder of [Byteq](https://byteq.my.id/)
+- 🚀 I'm a Founder of [Byteq](https://byteq.my.id/)
