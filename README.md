@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadli</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Fadli</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfadliridhani&label=Profile%20views&color=0e75b6&style=flat" alt="mfadliridhani" /> </p>
 
