@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfadliridhani&label=Profile%20views&color=0e75b6&style=flat" alt="mfadliridhani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfadliridhani" alt="mfadliridhani" /></a> </p>
-
 - 🔭 I’m currently working on [#sobat-masjid](http://sobatmasjid.com/)
 
 - 🌱 I’m currently learning **Fullstack MEVN**
