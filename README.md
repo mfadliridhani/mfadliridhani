@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 <h1 align="left">Hi 👋, I'm Fadli</h1>
 
 <p dir="auto">
@@ -45,6 +47,6 @@
     /></a>
 </p>
 
-- 👨‍💻 I'm a Master's Student in Computer Science at [Brawijaya University](https://ub.ac.id/)
+- <i class="bi bi-person"></i> I'm a Master's Student in Computer Science at [Brawijaya University](https://ub.ac.id/)
 
 - 🤝 I'm a Founder of [Byteq](https://byteq.my.id/)
