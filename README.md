@@ -24,13 +24,13 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="#"
         ><img
             alt="PHP"
-            src="https://img.shields.io/badge/PHP-Intermediate-7A86B8"
+            src="https://img.shields.io/badge/PHP-Expert-7A86B8"
             style="max-width: 100%"
     /></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="#"
         ><img
             alt="MySQL"
-            src="https://img.shields.io/badge/MySQL-Intermediate-3D6E93"
+            src="https://img.shields.io/badge/MySQL-Expert-3D6E93"
             style="max-width: 100%"
     /></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="#"
@@ -42,7 +42,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="#"
         ><img
             alt="Laravel"
-            src="https://img.shields.io/badge/Laravel-Intermediate-EE4131"
+            src="https://img.shields.io/badge/Laravel-Expert-EE4131"
             style="max-width: 100%"
     /></a>
 </p>
