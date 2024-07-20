@@ -51,6 +51,12 @@
             src="https://img.shields.io/badge/GitHub-Expert-1A1E22"
             style="max-width: 100%"
     /></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="#"
+        ><img
+            alt="RESTful API"
+            src="https://img.shields.io/badge/RESTful API-Intermediate-1A1E22"
+            style="max-width: 100%"
+    /></a>
 </p>
 
 - 🏛️ I'm a Master's Student of Computer Science at [Brawijaya University](https://ub.ac.id/)
