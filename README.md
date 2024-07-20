@@ -54,7 +54,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="#"
         ><img
             alt="RESTful API"
-            src="https://img.shields.io/badge/RESTful API-Intermediate-1A1E22"
+            src="https://img.shields.io/badge/RESTful API-Intermediate-02ADDD"
             style="max-width: 100%"
     /></a>
 </p>
