@@ -61,4 +61,4 @@
 
 - 🏛️ I'm a Master's Student of Computer Science at [Brawijaya University](https://ub.ac.id/)
 
-- 🚀 I'm a Founder of [Byteq](https://byteq.my.id/) and Co-Founder of [Sobat Masjid](https://sobatmasjid.com/)
+- 🚀 I'm a Founder of [PT BTI](https://byteq.id/) and Co-Founder of [Sobat Masjid](https://sobatmasjid.com/)
