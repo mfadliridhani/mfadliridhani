@@ -12,8 +12,6 @@
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-Expert-EE4131" /></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Expert-1A1E22" /></a>
     <a href="#"><img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-Intermediate-02ADDD" /></a>
-
-    <!-- MERN Stack -->
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Intermediate-47A248" /></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-Intermediate-000000" /></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-Intermediate-61DAFB" /></a>
