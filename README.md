@@ -16,7 +16,6 @@
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-Intermediate-000000" /></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-Intermediate-61DAFB" /></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-Intermediate-339933" /></a>
-    <a href="#"><img alt="MERN Stack" src="https://img.shields.io/badge/MERN_Stack-Intermediate-3C873A" /></a>
 </p>
 
 - 🏛️ I'm a Master's Student of Computer Science at [Brawijaya University](https://ub.ac.id/)
